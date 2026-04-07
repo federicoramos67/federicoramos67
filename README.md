@@ -1,34 +1,26 @@
 # 👋 ¡Hola! Soy **Federico Ramos**
 
-💻 **Técnico en Informática** y **Auxiliar Técnico en Administración**, con experiencia en soporte técnico, mantenimiento de equipos y gestión de procesos administrativos.  
-📊 Formado como **Analista de Datos Jr.** por Fundación Telefónica Movistar, en colaboración con la Universidad Católica del Uruguay e INEFOP (300 h).  
-Apasionado por transformar datos en conocimiento útil, optimizar procesos y aplicar tecnología para mejorar la toma de decisiones.
+### 💻 Técnico en Informática · 📊 Analista de Datos Jr. · 🇺🇾 Montevideo, Uruguay
+
+💡 Apasionado por transformar datos en decisiones. Combino experiencia en soporte técnico, administración y análisis de datos para construir soluciones prácticas y orientadas a resultados.
 
 ---
 
 ## 🧠 Sobre mí
-Combino conocimientos técnicos, administrativos y analíticos para ofrecer soluciones prácticas y eficientes en entornos laborales y educativos.  
-Mi formación me permitió adquirir una base sólida en programación, bases de datos, inteligencia de negocios y análisis de datos con Python.
 
-> Creo firmemente que los datos son el punto de partida para comprender los problemas y construir mejores soluciones.
+- 🎓 Formado como **Analista de Datos Jr.** por Fundación Telefónica Movistar + UCU + INEFOP (300 h)
+- 📊 Curso de **Power BI** – Educantel/ANTEL (25 h)
+- 🔍 Experiencia en **ETL, análisis exploratorio, visualización y SQL**
+- 🤖 Aprendiendo: **Machine Learning · Automatización con IA · N8N**
+- 🚀 Buscando mi primera oportunidad como **Data Analyst**
 
----
-
-## 🛠️ Habilidades Técnicas
-
-- 🐍 Python (NumPy, Pandas, visualización de datos)  
-- 🗄️ SQL y fundamentos de NoSQL  
-- ⚙️ Procesos ETL (Extract, Transform, Load)  
-- 🧠 Introducción a Machine Learning (modelos supervisados y no supervisados)  
-- 📊 Power BI (nivel básico, visualización y dashboards)  
-- 💻 Soporte técnico y mantenimiento de equipos  
-- 🔧 Control de versiones con Git y GitHub  
+> *"El verdadero valor del análisis de datos está en traducir la información en decisiones que generen impacto."*
 
 ---
 
-## 🧩 Tecnologías y Herramientas
+## 🛠️ Tech Stack
 
-### 🔹 Lenguajes de Programación
+### 🔹 Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -36,57 +28,59 @@ Mi formación me permitió adquirir una base sólida en programación, bases de 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9BE8?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🔹 Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-FF6F00?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔹 Herramientas y Control de Versiones
+### 🔹 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📈 Formación principal
+## 🚀 Proyectos Destacados
 
-🎓 **Analista de Datos Jr.** – Fundación Telefónica Movistar, Universidad Católica del Uruguay, e INEFOP  
-📅 *Octubre 2024 – Junio 2025 (300 h)*  
-
-**Contenido principal:**
-- Big Data y Business Intelligence  
-- Python aplicado a análisis de datos  
-- Bases de datos SQL y NoSQL  
-- Gobierno del dato y Data Science  
-- Visualización de datos y proyecto final  
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [📉 argentina-macro-exit-plan](https://github.com/federicoramos67/argentina-macro-exit-plan) | Análisis de inflación, desempleo y pobreza en Argentina (1990–2024) con datos del Banco Mundial | Python · Pandas · Matplotlib |
+| [🔍 Analisis-PEP-Uruguay](https://github.com/federicoramos67/Analisis-PEP-Uruguay) | Análisis exploratorio de Personas Políticamente Expuestas en Uruguay para prevención de lavado de activos | Python · Pandas · Jupyter |
+| [📞 optimizacion_horarios_cobranzas](https://github.com/federicoramos67/optimizacion_horarios_cobranzas) | Sistema de recomendación de horarios óptimos para llamadas de gestión de mora | Python · NumPy · Google Colab |
+| [🗂️ flatten-files](https://github.com/federicoramos67/flatten-files) | Herramienta CLI para aplanar carpetas anidadas en un único directorio | Python |
 
 ---
 
-📊 **Curso complementario:** *Power BI – Educantel (plataforma educativa de ANTEL, empresa líder en telecomunicaciones en Uruguay)*  
-📅 *Julio a Agosto 2025 (25 h)*  
+## 📈 GitHub Stats
 
-El curso, dictado a través de **Educantel**, fortaleció mis competencias en visualización y análisis de datos, explorando el uso de **Power BI** para la creación de dashboards interactivos y reportes dinámicos orientados a la toma de decisiones.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=federicoramos67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoramos67&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-## 🚀 Proyectos (en preparación)
-Actualmente desarrollo mis primeros proyectos para GitHub:
-- **Exploración de datos con Python y Pandas**  
-- **Prácticas de SQL y consultas analíticas**  
-- **Dashboards iniciales en Power BI**  
+## 📚 Formación
 
-*(Serán publicados próximamente.)*
+| Institución | Programa | Duración |
+|---|---|---|
+| Fundación Telefónica Movistar · UCU · INEFOP | Analista de Datos Jr. | Oct 2024 – Jun 2025 (300 h) |
+| Educantel / ANTEL | Power BI – Dashboards y Reportes | Jul – Ago 2025 (25 h) |
+
+**Contenidos clave:** Big Data · Business Intelligence · Python para datos · SQL/NoSQL · Data Governance · Machine Learning Intro · Visualización
 
 ---
 
 ## 📫 Contacto
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/federico-ramos-904024281)  
-- ✉️ [federicoramos6767@gmail.com](mailto:federicoramos6767@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-ramos-904024281)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federicoramos6767@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/federicoramos67)
 
 ---
 
-📌 *“El verdadero valor del análisis de datos está en traducir la información en decisiones que generen impacto.”*
+<p align="center">⭐ Si algún proyecto te resulta útil, ¡no dudes en darle una estrella!</p>
