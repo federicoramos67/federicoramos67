@@ -1,20 +1,28 @@
-# 👋 ¡Hola! Soy **Federico Ramos**
+<div align="center">
 
-### 💻 Técnico en Informática · 📊 Analista de Datos Jr. · 🇺🇾 Montevideo, Uruguay
+<!-- Typing animation banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Federico+Ramos+%F0%9F%91%8B;Data+Analyst+Jr.+%7C+Python+%7C+SQL+%7C+Power+BI;Transformo+datos+en+decisiones+de+impacto)](https://git.io/typing-svg)
 
-💡 Apasionado por transformar datos en decisiones. Combino experiencia en soporte técnico, administración y análisis de datos para construir soluciones prácticas y orientadas a resultados.
+### 💻 Técnico en Informática &nbsp;·&nbsp; 📊 Analista de Datos Jr. &nbsp;·&nbsp; 🇺🇾 Montevideo, Uruguay
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-ramos-904024281)
+[![Gmail](https://img.shields.io/badge/Gmail-federicoramos6767-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federicoramos6767@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-federicoramos67-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/federicoramos67)
+
+</div>
 
 ---
 
 ## 🧠 Sobre mí
 
-- 🎓 Formado como **Analista de Datos Jr.** por Fundación Telefónica Movistar + UCU + INEFOP (300 h)
-- 📊 Curso de **Power BI** – Educantel/ANTEL (25 h)
-- 🔍 Experiencia en **ETL, análisis exploratorio, visualización y SQL**
-- 🤖 Aprendiendo: **Machine Learning · Automatización con IA · N8N**
-- 🚀 Buscando mi primera oportunidad como **Data Analyst**
+> Combino formación técnica sólida con experiencia real en **análisis de datos, automatización y resolución de problemas de negocio**. Me especializo en encontrar el insight que mueve la aguja — no solo en generar reportes.
 
-> *"El verdadero valor del análisis de datos está en traducir la información en decisiones que generen impacto."*
+- 🎓 **Analista de Datos Jr.** — Fundación Telefónica Movistar + UCU + INEFOP (300 h)
+- 📊 **Power BI: Dashboards y Reportes** — Educantel / ANTEL (25 h)
+- 🔍 Experiencia práctica en **ETL · EDA · Visualización · SQL · Python**
+- 🤖 Explorando: **Machine Learning · Automatización con IA · N8N · Prompt Engineering**
+- 🚀 Buscando mi primera oportunidad formal como **Data Analyst**
+- 🌎 Abierto a posiciones **remotas o presenciales en Uruguay**
 
 ---
 
@@ -35,7 +43,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔹 Herramientas
+### 🔹 Herramientas y Entornos
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -46,28 +54,33 @@
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [📉 argentina-macro-exit-plan](https://github.com/federicoramos67/argentina-macro-exit-plan) | Análisis de inflación, desempleo y pobreza en Argentina (1990–2024) con datos del Banco Mundial | Python · Pandas · Matplotlib |
-| [🔍 Analisis-PEP-Uruguay](https://github.com/federicoramos67/Analisis-PEP-Uruguay) | Análisis exploratorio de Personas Políticamente Expuestas en Uruguay para prevención de lavado de activos | Python · Pandas · Jupyter |
-| [📞 optimizacion_horarios_cobranzas](https://github.com/federicoramos67/optimizacion_horarios_cobranzas) | Sistema de recomendación de horarios óptimos para llamadas de gestión de mora | Python · NumPy · Google Colab |
-| [🗂️ flatten-files](https://github.com/federicoramos67/flatten-files) | Herramienta CLI para aplanar carpetas anidadas en un único directorio | Python |
+| # | Proyecto | Descripción | Stack |
+|---|----------|-------------|-------|
+| 📉 | [**argentina-macro-exit-plan**](https://github.com/federicoramos67/argentina-macro-exit-plan) | Análisis histórico de inflación, desempleo y pobreza en Argentina (1990–2024) con datos del Banco Mundial | Python · Pandas · Matplotlib |
+| 🔍 | [**Analisis-PEP-Uruguay**](https://github.com/federicoramos67/Analisis-PEP-Uruguay) | EDA de Personas Políticamente Expuestas en Uruguay — orientado a prevención de lavado de activos | Python · Pandas · Jupyter |
+| 📞 | [**optimizacion_horarios_cobranzas**](https://github.com/federicoramos67/optimizacion_horarios_cobranzas) | Motor de recomendación de franjas horarias óptimas para llamadas de gestión de mora | Python · NumPy · Google Colab |
+| 🗂️ | [**flatten-files**](https://github.com/federicoramos67/flatten-files) | Herramienta CLI para aplanar estructuras de carpetas anidadas en un único directorio | Python |
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=federicoramos67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoramos67&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=federicoramos67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicoramos67&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=federicoramos67&theme=tokyonight&hide_border=true&locale=es)
+
+</div>
 
 ---
 
 ## 📚 Formación
 
 | Institución | Programa | Duración |
-|---|---|---|
+|-------------|----------|----------|
 | Fundación Telefónica Movistar · UCU · INEFOP | Analista de Datos Jr. | Oct 2024 – Jun 2025 (300 h) |
 | Educantel / ANTEL | Power BI – Dashboards y Reportes | Jul – Ago 2025 (25 h) |
 
@@ -75,12 +88,27 @@
 
 ---
 
-## 📫 Contacto
+## 💡 Soft Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-ramos-904024281)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federicoramos6767@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/federicoramos67)
+```text
+🔎 Pensamiento analítico     ██████████░  Avanzado
+📢 Comunicación de insights  █████████░░  Avanzado
+🤝 Trabajo colaborativo      █████████░░  Avanzado
+⚡ Autonomía y autoaprendizaje ██████████  Avanzado
+🧩 Resolución de problemas   ██████████░  Avanzado
+```
 
 ---
 
-<p align="center">⭐ Si algún proyecto te resulta útil, ¡no dudes en darle una estrella!</p>
+<div align="center">
+
+### 📫 ¿Hablamos?
+
+[![LinkedIn](https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-ramos-904024281)
+[![Email](https://img.shields.io/badge/Enviar%20un%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federicoramos6767@gmail.com)
+
+⭐ Si algún proyecto te resulta útil, ¡una estrella siempre se agradece!
+
+![Profile views](https://komarev.com/ghpvc/?username=federicoramos67&color=58A6FF&style=for-the-badge&label=VISITAS+AL+PERFIL)
+
+</div>
