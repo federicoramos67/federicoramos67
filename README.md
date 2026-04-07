@@ -63,20 +63,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=federicoramos67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicoramos67&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=federicoramos67&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 📚 Formación
 
 | Institución | Programa | Duración |
