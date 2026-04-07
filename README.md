@@ -71,7 +71,7 @@
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicoramos67&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=federicoramos67&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=federicoramos67&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
