@@ -56,7 +56,6 @@
 
 | # | Proyecto | Descripción | Stack |
 |---|----------|-------------|-------|
-| 📉 | [**argentina-macro-exit-plan**](https://github.com/federicoramos67/argentina-macro-exit-plan) | Análisis histórico de inflación, desempleo y pobreza en Argentina (1990–2024) con datos del Banco Mundial | Python · Pandas · Matplotlib |
 | 🔍 | [**Analisis-PEP-Uruguay**](https://github.com/federicoramos67/Analisis-PEP-Uruguay) | EDA de Personas Políticamente Expuestas en Uruguay — orientado a prevención de lavado de activos | Python · Pandas · Jupyter |
 | 📞 | [**optimizacion_horarios_cobranzas**](https://github.com/federicoramos67/optimizacion_horarios_cobranzas) | Motor de recomendación de franjas horarias óptimas para llamadas de gestión de mora | Python · NumPy · Google Colab |
 
