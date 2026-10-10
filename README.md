@@ -56,8 +56,12 @@
 
 | # | Proyecto | Descripción | Stack |
 |---|----------|-------------|-------|
-| 🔍 | [**Analisis-PEP-Uruguay**](https://github.com/federicoramos67/Analisis-PEP-Uruguay) | EDA de Personas Políticamente Expuestas en Uruguay — orientado a prevención de lavado de activos | Python · Pandas · Jupyter |
-| 📞 | [**optimizacion_horarios_cobranzas**](https://github.com/federicoramos67/optimizacion_horarios_cobranzas) | Motor de recomendación de franjas horarias óptimas para llamadas de gestión de mora | Python · NumPy · Google Colab |
+| 🔍 | [**Análisis PEP Uruguay**](https://github.com/federicoramos67/Analisis-PEP-Uruguay) | Exploración de datos públicos de PEPs; preparación de datos, visualización y reporte orientado a cumplimiento | Python · Pandas · Jupyter |
+| 💼 | [**Mercado Laboral Tech LATAM**](https://github.com/federicoramos67/mercado-laboral-tech-latam) | Pipeline reproducible con generación sintética de datos y cinco visualizaciones; no representa resultados de una encuesta real | Python · Pandas · NumPy · Seaborn |
+| 🎬 | [**Streaming Analytics Factory**](https://github.com/federicoramos67/streaming-analytics-factory) | Casos de análisis sobre contenido, ingresos y monetización en plataformas de streaming | Python · Pandas · Jupyter |
+| 📞 | [**Optimización de horarios de cobranza**](https://github.com/federicoramos67/optimizacion_horarios_cobranzas) | Notebook demostrativo para explorar horarios de contacto y priorización en una gestión de cobranza | Python · Pandas · NumPy · Colab |
+
+Cada repositorio incluye su propio alcance, instrucciones de ejecución y notas sobre los datos. Los análisis exploratorios y las simulaciones deben interpretarse según sus fuentes y supuestos documentados.
 
 
 ---
